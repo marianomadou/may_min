@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523550201 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\proyecto_nombre_apellido\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
